@@ -1,0 +1,243 @@
+/* generales */
+body{
+    margin: 0px;
+}
+.blanco{
+    color: white;
+}
+.fondo-rosado{
+    background-color: #ff009e;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.anchodecaja{
+    width: 960px;
+    margin: auto;
+}
+.p-centrado{
+    text-align: center;
+}
+.amarillo{
+    color: yellow;
+}
+.verde{
+    color: #56f89a;
+}
+.rosado{
+    color: #ff009e;
+}
+.bold{
+    font-weight: bold;
+}
+.h3-medida{
+    font-size: 30px
+
+} 
+.fondoverde{
+    background-color: #56f89a;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.sinmargin{
+    margin: 0px;
+}
+/* AQUI EMPIEZA EL HEADER */
+.flex-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.flex-column{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.fondoamarillo{
+    background-color: #FFE521;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+/* empieza seccion1 */
+.banner1{
+    background-image: url(img/fondos/banner-principal.jpg);
+    background-position-y: -60px;
+    height: 446px;
+}
+.bannersub{
+    margin-top: 300px;
+    font-size: 50px;
+}
+/* div1 */
+.div1{
+    margin-top: 70px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.parrafo1{
+    width: 700px;
+}
+.fundadora{
+    color: #999999;
+}
+/* seccion2 */
+.div-seccion2{
+
+    margin-right: 10px;
+    width: 200px;
+    height: 164px;
+}
+.p-seccion2{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin: 7px;
+}
+.num-seccion2{
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+    font-weight: bold;
+}
+/* seccion3 */
+.seccion3{
+    background-image:url(img/fondos/banner2.jpg);
+    height: 426px;
+}
+.p-sec3{
+    margin-top: 200px;
+
+}
+/* seccion4 */
+.seccion4{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/* seccion5 */
+.seccion5{
+    background-image: url(img/fondos/26962146-0-LaEgresada7.JPG);
+    height: 426px;
+    background-position-y: -150px;
+}
+.p-secc5{
+    margin-top: 200px;
+}
+/* ---seccion 6 completo */
+/* seccion7 */
+.seccion7{
+    background-image: url(img/fondos/27356752-0-LAB17001-TF-SUMMIT-1.jpg);
+    height: 426px;
+}
+/* ----seccion8 */
+/* seccion9 */
+.seccion9{
+    background-image: url(img/fondos/27357252-0-IMG-4679.jpg);
+    height: 426px;
+}
+.div-sec9{
+    float: right;
+    
+}
+/* 10 */
+.contenedor-div10{
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.seccion10{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #eeeeee;
+    margin: 0px;
+}
+.div-img10{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    padding: 0px 20px;
+    background-color: #ffffff;
+    margin: 10px;
+    align-items: center;
+}
+.contenedor-img10{
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    /* flex-direction: row; */
+    
+}
+.contenedor-div-img{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+.div-solo10{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.h2-10{
+    padding: 30px;
+}
+/*seccion 11  */
+.cont-img11{
+    display: flex;
+    flex-direction: row;
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.div-img11{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.img11{
+    width: 200px;
+    
+}
+.h2-11{
+    margin-top: 62px;
+}
+/* seccion 12 */
+.cont-img12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont-img12>div{
+    width: 250px;
+    margin: 15px;   
+}
+.art-ult{
+    width: 300px;
+    height: 400px;
+    background-color: #eeeeee;
+}
+/* footer */
+.footer{
+    background-color:#000000;
+
+}
+.img-footer{
+    width: 169px;
+}
+
+
+
